@@ -9,6 +9,9 @@ Analyzed the curvatures and area expansions of experimental devices and simulate
 
 Currently working on papers about Bulk Electrochemical actuators, and Fiber-based robots.
 
+If you have data that needs synchronization between a DAQ and a camera, look at this labview program I developed:
+https://github.com/ItaiCohenLab/Labview-Video-and-Data-Synchronization-and-Collection-Interface
+
 <!--
 **jtpelster/jtpelster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
