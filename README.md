@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Mechanical engineering student in the Cohen physics lab at Cornell university.
-I work on projects with robots on the length scale of a hair.
+I work on projects with robots on the length scale of the thickness of a hair.
 Some of the publications that I have contributed to:
 
 Liu, Q., Wang, W., Sinhmar, H. et al. Electronically configurable microscopic metasheet robots. Nat. Mater. 24, 109–115 (2025). https://doi.org/10.1038/s41563-024-02007-7:
